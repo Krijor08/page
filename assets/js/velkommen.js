@@ -1,1 +1,0 @@
-alert("Velkommen til min portefølje!")
